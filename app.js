@@ -1,3 +1,9 @@
+//NOTA: INICIAR EL SERVIDOR.
+//Desde la terminal, con la carpeta del proyecto abierta,
+//node app.js       debe devolver por consola "Aplicación funcionando en el puerto 3000"
+//Luego abrir el navegador y escribir la URL: http://localhost:3000/
+
+
 // Importamos la dependencia
 const express = require('express'); //require sirve para cargar un módulo de Node.js.
 
